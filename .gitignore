@@ -9,6 +9,8 @@
 
 src/config.js
 
+/.vscode
+
 # testing
 /coverage
 
