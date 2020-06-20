@@ -1,0 +1,25 @@
+.center-form {
+    display: inline-block;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.username-field {
+    width: 23em;
+}
+
+.password-field {
+    width: 20em;
+}
+
+.login-btn {
+    margin-top: 60px;
+}
+
+.welcomeText {
+    margin-bottom: 150px;
+}

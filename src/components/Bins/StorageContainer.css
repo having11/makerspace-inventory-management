@@ -1,0 +1,22 @@
+.storage {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.storage, .td-storage {
+    border: 5px solid black
+}
+
+.td-storage {
+    width: 150px;
+    height: 75px;
+    text-align: center;
+}
+
+.td-highlight {
+    background-color: lightblue;
+}
+
+.storage-container {
+    text-align: center;
+}

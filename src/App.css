@@ -1,0 +1,12 @@
+img {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-top: 0;
+  position: relative;
+  top: -15px;
+}
+
+h1 {
+  float: left;
+}

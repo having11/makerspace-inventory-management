@@ -1,0 +1,48 @@
+.carousel {
+    width: 650px;
+    height: 650px;
+}
+
+.slide {
+    width: 650px;
+    height: 650px;
+}
+
+.carousel-indicators .active {
+    background-color: #0241d6;
+}
+
+.carousel-control-prev-icon {
+background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%230241d6' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%230241d6' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-inner {
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-item {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.qr-img {
+    margin-top: 30px;
+    border-radius: 4px;
+    border: solid black;
+    border-width: 1px;
+}
+
+.part-card {
+    display: inline-block;
+}
